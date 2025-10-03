@@ -384,4 +384,19 @@
 //                 <br> User Letter : ${userChar} <br>
 //                 word count: ${result}`);
 
+// Q14
 
+// function calcCircumference(radius) {
+//   var circumference = 2 * Math.PI * radius;
+
+//   document.write("The circumference is " + circumference.toFixed(2) + "<br>");
+// }
+// function calcArea(radius) {
+//   var area = Math.PI * radius * radius;
+
+//   document.write("The area is " + area.toFixed(2));
+// }
+// calcCircumference(5);
+// calcArea(5);
+
+// events ki class li nhi thi isliye ate nhi itne propelry
